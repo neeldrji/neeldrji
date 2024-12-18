@@ -19,5 +19,5 @@ Hello, I'm Neel. Business Intelligence professional with expertise in SQL develo
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](linkedin.com/in/nd2631)
+- [Linkedin](https://www.linkedin.com/in/nd2631)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~012c1250418f94def9?mp_source=share)
